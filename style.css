@@ -1,0 +1,65 @@
+h2, p {
+    text-align: center;
+    margin-top: 40px;
+}
+
+p {
+    margin-top: 15px;
+}
+
+.container-flex {
+    margin-top: 50px;
+    margin-bottom: 75px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    width: 300px;
+}
+
+.brand-color {
+    color: #fff;
+}
+
+.technician {
+    color: chartreuse;
+}
+
+.fa-plus-circle {
+    font-size: 25px;
+    color: chartreuse;
+}
+
+a:link {
+    color: #fff;
+}
+
+.icon-text {
+    margin-left: 5px;
+    color: #fff;
+    margin-top: -4px;
+}
+
+.icon-text:hover {
+    text-decoration: underline;
+}
+
+.container-table {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.right-completed {
+    text-align: center;
+}
+
+.completed-checkbox {
+    margin-left: 260px;
+}
+
+.center-trash {
+    text-align: center;
+}
